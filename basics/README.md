@@ -1,0 +1,1 @@
+this file contains a script that after executed returns the current working directory
