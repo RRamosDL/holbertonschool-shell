@@ -4,3 +4,4 @@
 3-listfiles - is a script that after executed displays current directory contents in a long format
 4-listmorefiles - is a script that after executed displays all the current directory contents, including hidden files using the long format.
 5-listfilesdigitonly - is a script that after executed displays all the current directory contents including hidden using the long format, sorted by user and group IDs displayed numerically
+6-firstdirectory - is a script that after executed creates a directory called "my_first_directory" inside the /tmp directory 
