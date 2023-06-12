@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 655:wq ..
+chmod -R 655 -d a+x ..
