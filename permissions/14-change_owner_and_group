@@ -1,2 +1,2 @@
 #!/bin/bash
-chown . user:vincent group:staff
+chown user:vincent,group:staff .
