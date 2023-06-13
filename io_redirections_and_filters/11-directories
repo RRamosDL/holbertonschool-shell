@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ap | grep -v /$ | wc -l 
+find -l -type f | wc -l 
